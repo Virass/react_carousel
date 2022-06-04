@@ -1,0 +1,2 @@
+.App{display:flex;flex-direction:column;align-items:center;grid-gap:20px;gap:20px}.Carousel{margin:auto;overflow:hidden}.Carousel__list{display:flex}.Carousel__navigation{display:flex;justify-content:space-between;align-items:center;margin:20px 0}.Carousel__position{display:flex;grid-gap:5px;gap:5px}.Carousel__dot{height:10px;width:10px;background-color:grey;border-radius:50%}.Carousel__dot-active{background-color:#ff4500}*{box-sizing:border-box}body,h1,h2,h3,h4,h5,h6,p,ul{margin:0;padding:0}ul{list-style:none}
+/*# sourceMappingURL=main.b556686d.chunk.css.map */
